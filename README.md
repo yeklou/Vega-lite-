@@ -1,3 +1,3 @@
 # Vega-lite-
 Vega-lite Class Assignment:
-These vega-lite code and a screenshot of the output
+These are vega-lite code and a screenshot of the output
